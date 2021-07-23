@@ -7,7 +7,7 @@
 ****
 
 <p align="center">
-  <img width = 700 src="Capture.png" /><br>
+  <img width = 700 src="https://github.com/Shaishav0507/Tetris_Game_Python/blob/main/Capture.PNG" /><br>
 </p>
 
 # ✔ HAPPY TETRIS, ENJOY THE GAME !!
